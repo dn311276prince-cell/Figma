@@ -1,5 +1,7 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date: 24/12/2025 
+DILIP KUMAR R 
+25017135
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
